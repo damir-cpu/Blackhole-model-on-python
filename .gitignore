@@ -71,7 +71,7 @@ ax.text(
     bbox=dict(boxstyle="round", facecolor="white", alpha=0.8),
 )
 
-ax.set_title("Sgr A*")
+ax.set_title("Srg A*")
 
 plt.legend()
 plt.savefig("Srg A")
